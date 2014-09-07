@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DovizTakipInternet</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="yenile">Yenile</string>
+    <string name="doviz_takip_url">http://www.ecb.int/stats/eurofxref/eurofxref-daily.xml</string>
+
+</resources>
